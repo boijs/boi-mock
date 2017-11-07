@@ -1,0 +1,22 @@
+{
+  "name": "boi-mock",
+  "version": "0.0.1",
+  "description": "mock server of boi",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:boijs/boi-mock.git"
+  },
+  "author": "zhoujunpeng <zjp0432@163.com> (https://github.com/zhoujunpeng)",
+  "license": "MIT",
+  "dependencies": {
+    "boi-utils": "0.0.3",
+    "express": "^4.16.2",
+    "express-http-proxy": "^1.0.7",
+    "lodash": "^4.17.4",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
