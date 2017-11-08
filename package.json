@@ -13,10 +13,10 @@
   "author": "zhoujunpeng <zjp0432@163.com> (https://github.com/zhoujunpeng)",
   "license": "MIT",
   "dependencies": {
-    "boi-utils": "0.0.3",
+    "boi-utils": "^0.0.3",
     "express": "^4.16.2",
     "express-http-proxy": "^1.0.7",
     "lodash": "^4.17.4",
-    "mockjs": "^1.0.1-beta3"
+    "request": "^2.83.0"
   }
 }
