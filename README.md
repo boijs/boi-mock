@@ -58,7 +58,7 @@ module.exports = [{
 Then run code as follows:
 ```javascript
 const BoiMock = require('boi-mock');
-const Config = require('./boi.mock.config.js);
+const Config = require('./boi.mock.config.js');
 
 BoiMock(null,Config,9999);
 ```
