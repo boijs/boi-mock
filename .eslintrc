@@ -3,10 +3,6 @@
     "ecmaVersion": 6,
     "sourceType": "script"
   },
-  "scripts": {
-    "lint": "eslint lib",
-    "test": "mocha test"
-  },
   "env": {
     "node": true,
     "es6": true
